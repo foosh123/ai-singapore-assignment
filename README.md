@@ -71,10 +71,3 @@ This project demonstrates how to use the Hugging Face Inference API with the GPT
 ### Word Frequency Analysis
 - `Input URL`: Location of the text file.
 - `Rank Range`: Words ranked by frequency (default: 10th to 20th).
-
-## License
-This project is available under the MIT License.
-
-## Credits
-- Hugging Face for the GPT-2 model and API.
-- Python for the tools and libraries.
